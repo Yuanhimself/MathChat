@@ -1,0 +1,6 @@
+openai~=1.32.0
+easyocr~=1.7.1
+FLAML~=2.1.2
+pandas~=2.2.2
+ipython~=8.25.0
+pillow~=10.3.0
